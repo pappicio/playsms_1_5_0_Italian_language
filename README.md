@@ -8,7 +8,7 @@ execute theese commands:
 
 apt-get install language-pack-it
 
-systemctl restart php8.1-fpm
+systemctl restart php8.1-fpm #if you use playsms php 8.1 fix, otherwise, don'execute it!
 
 service apache2 restart
 
